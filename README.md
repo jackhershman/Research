@@ -1,2 +1,2 @@
-# Research
-Personal projects fueled by passion
+# Proprietary Research
+Goal is to build some sort of semi-systemic trading strategy. Hopefully I have some ideas that are worthwhile...

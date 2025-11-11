@@ -1,0 +1,1 @@
+This folder contains all the strategies that "passed" the stress test and going to be integrated with live data for trading

@@ -1,0 +1,1 @@
+This folder contains statistical analysis and machine learning for the ideas I have in the "ideas" section
